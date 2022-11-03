@@ -2,7 +2,7 @@
 
 100 Days of SwiftUI - Days 57-59 - Project 12
 
-Exploring Core Data - custom managed object subclasses, ensuring uniqueness, filtering @FetchRequest, dynamic filtering, one-to-many relationshps
+Exploring Core Data - custom managed object subclasses, ensuring uniqueness, filtering @FetchRequest, dynamic filtering, one-to-many relationships
 
 # Screen Shots
 
